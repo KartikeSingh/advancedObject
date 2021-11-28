@@ -1,2 +1,2 @@
 # advancedObject
-An advnaced object class for JavaScript / Typescript 
+An advanced object class for JavaScript / Typescript
