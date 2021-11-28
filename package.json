@@ -1,5 +1,5 @@
 {
-  "name": "advanced-object",
+  "name": "object-advanced",
   "version": "1.0.0",
   "description": "An advanced form of object",
   "main": "./dist/index.js",

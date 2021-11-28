@@ -1,6 +1,6 @@
 # Installations
 ```
-npm i advanced-object
+npm i object-advanced
 ```
 
 # Introduction
@@ -11,7 +11,7 @@ Note: You can still do everything to advanced object like you do with a normal o
 # Implementations
 - ### Creating a advanced object
 ```js
-const { default:AdvancedObject } = require('advanced-object');
+const { default:AdvancedObject } = require('object-advanced');
 
 const yourObject = {
     some:"Cool Object",
