@@ -1,0 +1,29 @@
+{
+  "name": "advanced-object",
+  "version": "1.0.0",
+  "description": "An advanced form of object",
+  "main": "./dist/index.js",
+  "typings": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KartikeSingh/advancedObject.git"
+  },
+  "keywords": [
+    "advanced",
+    "object"
+  ],
+  "author": "Shisui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KartikeSingh/advancedObject/issues"
+  },
+  "homepage": "https://github.com/KartikeSingh/advancedObject#readme",
+  "dependencies": {
+    "edit-nested-object": "^1.2.2",
+    "is-object-equal": "^1.2.1",
+    "read-nested-object": "^1.0.1"
+  }
+}
